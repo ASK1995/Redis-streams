@@ -1,0 +1,2 @@
+base = {workspace = asksantu_redis; };
+packages = { };
